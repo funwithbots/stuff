@@ -1,8 +1,12 @@
-Projects
-========
+# Fitness
 
-This is a collection of designs and small projects that don't have enough going on to need their own repo.
+## Exercise Log
+The Exercise Log is useful for tracking your workouts. It assumes three sets for each exercise but can easily be adapted. The user may wish to split workouts so the date for each grouping can be individually tracked.
 
+## Todo's 
+Instructions / graphics for each exercise.
+
+## License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
