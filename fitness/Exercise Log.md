@@ -1,4 +1,4 @@
-﻿#Exercise Log
+﻿# Exercise Log
 |(*)||Reps|Reps|Reps|Reps|Reps|Reps|Reps|Reps|Reps|Reps|Reps|Reps|Reps|Reps|Reps|
 | :-: | -: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | |**UPPER BODY**|Date|||Date|||Date|||Date|||Date|||
@@ -49,7 +49,7 @@
 (*) Position of the band at its anchor point relative to user's height
 *NB = No Band; H = High; M = Mid; L = Low*
 
-##License
+## License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
@@ -61,8 +61,8 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-##Source
+## Source
 [https://github.com/funwithbots/stuff](https://github.com/funwithbots/stuff)
 
-##Revision
+## Revision
 20231023a
