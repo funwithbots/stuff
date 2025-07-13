@@ -8,7 +8,7 @@
 | |Shoulder Press| | | | | | | | | | | | | | |
 | |Tricep Extension| | | | | | | | | | | | | | |
 |H|Face Pull| | | | | | | | | | | | | | |
-|H|Trcep Pushdown| | | | | | | | | | | | | | |
+|H|Tricep Pushdown| | | | | | | | | | | | | | |
 |M|Chest Fly| | | | | | | | | | | | | | |
 |M|Internal Rotation| | | | | | | | | | | | | | |
 |M|External Rotation| | | | | | | | | | | | | |
