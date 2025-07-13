@@ -28,6 +28,7 @@ def convert_to_pdf(input_path: str) -> None:
     output_path = f"{base}.pdf"
     if os.path.exists(output_path):
         print(f"{output_path} already exists. Skipping.")
+        return
     print(f"Converting '{input_path}' → '{output_path}'…")
     try:
         subprocess.run([EBOOK_CONVERT_PATH, input_path, output_path], check=True)
