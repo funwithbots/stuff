@@ -7,7 +7,7 @@ This script converts `.epub` and `.mobi` ebook files to PDF format using Calibre
 1. **Calibre**: Ensure that Calibre is installed, and the `ebook-convert` executable is available. You can download Calibre from [https://calibre-ebook.com/](https://calibre-ebook.com/).
 2. **Python**: This script requires Python 3.x.
 3. **Environment Setup**:
-   - Update the `EBOOK_CONVERT_PATH` variable in the script to point to the location of `ebook-convert.exe` on your system.
+   - Update the `EBOOK_CONVERT_PATH` variable in the script or set an ENV to point to the location of `ebook-convert.exe` on your system.
 
 ## How It Works
 
@@ -24,3 +24,11 @@ The script:
 
    ```bash
    python convert.py <directory>
+
+## Notes
+
+You can test `ebook-convert` by running the following command in your terminal. Use the full path to the `ebook-convert` executable if it's not in your PATH:
+
+```bash
+ebook-convert --version
+```
